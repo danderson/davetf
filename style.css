@@ -1,0 +1,19 @@
+html {
+    font-family: 'Droid Sans', sans-serif;
+    color: #eee;
+    background-color: #333;
+    text-align: center;
+}
+
+body {
+    width: 90%;
+    margin: auto;
+}
+
+@media (min-width: 750px) {
+    body {
+        width: 700px;
+        margin: auto;
+    }
+}
+
