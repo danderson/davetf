@@ -17,3 +17,7 @@ body {
     }
 }
 
+a {
+    color: #bbb;
+    font-weight: bold;
+}
