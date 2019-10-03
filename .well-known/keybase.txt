@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dave_universetf
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.dave.tf
+  * I am dave_universetf (https://keybase.io/dave_universetf) on keybase.
+  * I have a public key ASDD18cHJhm2zgQYbqAkCXAR_44usIKGXts2FqotdMwcRgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208b8c3a3b5dd439277cd1b0da1089bf051ebaae458bdb526edb6a1a64784777560a",
+      "host": "keybase.io",
+      "kid": "0120c3d7c7072619b6ce04186ea024097011ff8e2eb082865edb3616aa2d74cc1c460a",
+      "uid": "a97c314afa1e8f21491f7659c48ff719",
+      "username": "dave_universetf"
+    },
+    "merkle_root": {
+      "ctime": 1570070938,
+      "hash": "c89c1cc8effa3571518c455ab9fb08c7ac9201f9da5171452eefdb1431da8079ff28a073838b2d5f6a34e10365e2e7feb5c4496669eb2fb3ba1533f3c2566ce4",
+      "hash_meta": "dbe183d204bec305b0be267d677ad16b54c7d19184a27d6bd035d12a367e1b41",
+      "seqno": 7844571
+    },
+    "service": {
+      "entropy": "hfZhyXiAYJqOMUCaR/UN5l7M",
+      "hostname": "www.dave.tf",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1570070939,
+  "expire_in": 504576000,
+  "prev": "a69ac99a778ac54f64e2d991c3faf87c962d8d5fb954be7f509bc93fd2ab317d",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgw9fHByYZts4EGG6gJAlwEf+OLrCChl7bNhaqLXTMHEYKp3BheWxvYWTESpcCFMQgpprJmneKxU9k4tmRw/r4fJYtjV+5VL5/UJvJP9KrMX3EIBg5+RnKhQFRnlzEC2EZeXGvSgOFFubEkvQPh0Bqor3aAgHCo3NpZ8RAcbPEMmd89OsAq+hZbMGiWu9HZtjVvWeGv3yiMJwVxLDyWAJteuKRtumuVK40uXEZz7UQOCkI5C0bZ46Qs4FLBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHaldt1v+N8JK89rHkiEe66yehe8aUpI+NGmXdX1Km9/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dave_universetf
+
+==================================================================
